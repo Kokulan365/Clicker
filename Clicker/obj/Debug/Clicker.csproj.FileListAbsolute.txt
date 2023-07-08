@@ -1,0 +1,7 @@
+C:\Users\Blacklight\source\repos\Clicker\Clicker\obj\Debug\Clicker.csproj.CoreCompileInputs.cache
+C:\Users\Blacklight\source\repos\Clicker\Clicker\bin\Debug\Clicker.exe.config
+C:\Users\Blacklight\source\repos\Clicker\Clicker\bin\Debug\Clicker.exe
+C:\Users\Blacklight\source\repos\Clicker\Clicker\bin\Debug\Clicker.pdb
+C:\Users\Blacklight\source\repos\Clicker\Clicker\obj\Debug\Clicker.exe
+C:\Users\Blacklight\source\repos\Clicker\Clicker\obj\Debug\Clicker.pdb
+C:\Users\Blacklight\source\repos\Clicker\Clicker\obj\Debug\Clicker.csprojAssemblyReference.cache
